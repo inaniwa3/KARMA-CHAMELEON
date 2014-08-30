@@ -6,7 +6,7 @@ Using the [mgl.coffee](https://github.com/abagames/mgl.coffee "mgl.coffee") mini
 
 ## Demo
 
-[KARMA CHAMELEON](http://inaniwa3.github.io/KARMA CHAMELEON/ "KARMA CHAMELEON")
+[KARMA CHAMELEON](http://inaniwa3.github.io/KARMA-CHAMELEON/ "KARMA CHAMELEON")
 
 ## Screenshot
 
